@@ -1,5 +1,5 @@
 
-![image](https://ibb.co/qY4d6SS)
+![alt text](https://ibb.co/qY4d6SS)
 
 
 # MUSICNATOR
@@ -24,4 +24,4 @@ A discord music bot build using [JDA](https://github.com/DV8FromTheWorld/JDA) an
 
 # DEMONSTRATION
 
-![demo](https://gfycat.com/embarrassedpresenthornet) 
+![A 60 second gif showing a basic demonstration](https://gfycat.com/embarrassedpresenthornet) 
