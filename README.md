@@ -1,7 +1,3 @@
-
-![alt text](https://ibb.co/qY4d6SS)
-
-
 # MUSICNATOR
 
 A discord music bot build using [JDA](https://github.com/DV8FromTheWorld/JDA) and [Lavaplayer](https://github.com/sedmelluq/lavaplayer). To try out yourself go to [Discord Developer Portal](https://discord.com/developers) and generate a bot token and paste it in [Bot.java](https://github.com/iAmSyntax/MUSICNATOR/blob/master/src/main/java/me/aslam/Bot.java)
@@ -24,4 +20,4 @@ A discord music bot build using [JDA](https://github.com/DV8FromTheWorld/JDA) an
 
 # DEMONSTRATION
 
-![A 60 second gif showing a basic demonstration](https://gfycat.com/embarrassedpresenthornet)  
+A 60 second gif showing a basic demonstration - ![gif](https://gfycat.com/embarrassedpresenthornet)  
