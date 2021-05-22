@@ -20,4 +20,4 @@ A discord music bot build using [JDA](https://github.com/DV8FromTheWorld/JDA) an
 
 # DEMONSTRATION
 
-A 60 second gif showing a basic demonstration - ![gif](https://gfycat.com/embarrassedpresenthornet)  
+A 60 second gif showing a basic demonstration - https://gfycat.com/embarrassedpresenthornet
