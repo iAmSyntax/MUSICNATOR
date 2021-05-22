@@ -1,3 +1,5 @@
+
+![alt txt](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.69gB6CO4Tf7I7-Gd9Z2XbQHaD2%26pid%3DApi&f=1)
 # MUSICNATOR
 
 A discord music bot build using [JDA](https://github.com/DV8FromTheWorld/JDA) and [Lavaplayer](https://github.com/sedmelluq/lavaplayer). To try out yourself go to [Discord Developer Portal](https://discord.com/developers) and generate a bot token and paste it in [Bot.java](https://github.com/iAmSyntax/MUSICNATOR/blob/master/src/main/java/me/aslam/Bot.java)
