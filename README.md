@@ -23,7 +23,7 @@ A discord music bot build using [JDA](https://github.com/DV8FromTheWorld/JDA) an
 
 # DEMONSTRATION
 
-A video explainin the functioning of the bot (its earliest iteration was called calypso)
+A video explaining the functionality of the bot (its earliest iteration was called calypso)
 
 * Part 1 -> https://drive.google.com/file/d/1Z874a3w-vHgIIEgSz287JTVHKcWT3WZR/view?usp=drive_link
 * Part 2 -> https://drive.google.com/file/d/1CaNxlHT_jYiJUJKghNG7EllAqgjUMxxz/view?usp=drive_link
