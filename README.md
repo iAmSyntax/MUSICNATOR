@@ -23,4 +23,7 @@ A discord music bot build using [JDA](https://github.com/DV8FromTheWorld/JDA) an
 
 # DEMONSTRATION
 
-A 60 second gif showing a basic demonstration - https://gfycat.com/embarrassedpresenthornet
+A video explainin the functioning of the bot (its earliest iteration was called calypso)
+
+* Part 1 -> https://drive.google.com/file/d/1Z874a3w-vHgIIEgSz287JTVHKcWT3WZR/view?usp=drive_link
+* Part 2 -> https://drive.google.com/file/d/1CaNxlHT_jYiJUJKghNG7EllAqgjUMxxz/view?usp=drive_link
